@@ -18,7 +18,12 @@ Vì sao: …
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
-|---|---|---|---|---|
+|Phát triển các sản phẩm công nghệ quy mô lớn trong hệ sinh thái MISA, phục vụ hàng triệu người dùng và doanh nghiệp trên toàn quốc.<br>
+Làm chủ toàn bộ vòng đời phát triển sản phẩm, từ Frontend, Backend đến Database, với cơ hội tham gia thiết kế kiến trúc và giải quyết các bài toán kỹ thuật phức tạp.<br>
+Tối ưu hiệu năng, khả năng mở rộng và độ ổn định của hệ thống nhằm mang đến trải nghiệm tốt nhất cho người dùng.<br>
+Làm việc trong môi trường Agile, phối hợp cùng Product, BA, QC và DevOps để xây dựng những sản phẩm chất lượng cao.<br>
+Tham gia code review, chia sẻ kinh nghiệm, đề xuất giải pháp kỹ thuật và liên tục cải tiến chất lượng code cũng như quy trình phát triển.
+Có cơ hội học hỏi, phát triển chuyên môn và tạo dấu ấn trên các sản phẩm được sử dụng rộng rãi.|---|---|---|---|
 | Kiến thức | … | … | … | chưa / một phần / rồi |
 | Kỹ năng | … | … | … | … |
 | Thái độ | … | … | … | … |
