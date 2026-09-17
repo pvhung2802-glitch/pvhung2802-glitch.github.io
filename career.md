@@ -17,7 +17,7 @@ Vì sao: …
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-| ---|---|---|---|---|
+|---|---|---|---|---|
 | Kiến thức | … | … | … | chưa / một phần / rồi |
 | Kỹ năng | … | … | … | … |
 | Thái độ | … | … | … | … |
