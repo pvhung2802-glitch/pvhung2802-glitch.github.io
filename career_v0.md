@@ -9,9 +9,10 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+Kĩ Sư Phần Mềm 
 
-Vì sao: …
+Vì sao:-Tôi yêu thích nghề kỹ sư phần mềm vì cảm giác phấn khích khi biến những dòng code khô khan thành một sản phẩm thực tế có thể giải quyết được vấn đề của người dùng. Từ khi còn đi học, việc tự tay xây dựng các ứng dụng và nhìn thấy chúng vận hành mượt mà luôn mang lại cho tôi động lực lớn. Ngành này thay đổi liên tục, điều đó kích thích khao khát tự học và thử thách bản thân với các công nghệ mới của tôi mỗi ngày.
+
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
