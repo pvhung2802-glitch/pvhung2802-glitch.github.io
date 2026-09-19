@@ -8,8 +8,7 @@ title: Chân dung nghề của tôi
 > Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
 ## Hướng tôi nhắm
-
-…
+Kỹ Sư Phần Mềm
 
 Vì sao: …
 
@@ -19,18 +18,19 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+|-Kiến thức |-Cấu trúc dữ liệu và giải thuật (Data Structures & Algorithms): Giúp tối ưu hóa tốc độ xử lý và bộ nhớ của chương trình.<br>-Lập trình hướng đối tượng (OOP): Nắm vững các nguyên lý như đóng gói, kế thừa, đa hình và các nguyên lý thiết kế SOLID để viết mã dễ bảo trì.<br>-Kiến trúc máy tính và hệ điều hành: Hiểu cách quản lý bộ nhớ, tiến trình (process), luồng (thread) và mạng máy tính (TCP/IP, HTTP/HTTPS).<br>|-Ngôn ngữ lập trình: Thành thạo ít nhất 2 ngôn ngữ phổ biến (như Python, Java, C++, JavaScript hoặc C#)<br>-Hệ quản trị cơ sở dữ liệu: Phân biệt và sử dụng thành thạo SQL (MySQL, PostgreSQL) và NoSQL (MongoDB, Redis).<br>-Quản lý mã nguồn: Sử dụng thành thạo Git và các nền tảng như GitHub hoặc GitLab.|-Thiết kế phần mềm (Software Design): Biết thiết kế kiến trúc hệ thống (Microservices, Monolithic) và các mẫu thiết kế (Design Patterns).<br>-Kiểm thử và vận hành (Testing & DevOps): Viết unit test, sử dụng CI/CD, Docker và kiến thức cơ bản về Cloud (AWS, GCP, Azure).<br>-Kỹ năng mềm: Phân tích yêu cầu khách hàng, giải quyết vấn đề và làm việc nhóm trong các mô hình Agile/Scrum.
+| chưa / một phần / rồi |
+| Kỹ năng |-Có kinh nghiệm rigging và skinning trên 3ds Max hoặc Maya<br>-Hiểu về quy tình thực hiện rigging trong Unreal hoặc engine game mới nhất hiện nay<br>-Hiểu về cấu trúc khớp thực tế, chất lượng của sản phẩm biến dạng, sự cân bằng của silhouette<br>-Có kinh nghiệm áp dụng chuyển động cho các part bổ trợ như cloth, hair, accessories<br>Có năng lực sản xuất đáp ứng tiêu chuẩn asset cho character trong các tựa|-Tốt nghiệp Đại học trở lên các ngành CNTT, Kỹ thuật hoặc Toán học.<br>-Từ 3 năm kinh nghiệm phát triển các dự án AI thực tế, trong đó tối thiểu 1 năm làm việc với LLM/Generative AI.<br>-Thành thạo Python (ưu tiên), hoặc C++, Java.<br>-Có kiến thức và kinh nghiệm về Deep Learning, Machine Learning hoặc Data Science.<br>Ưu tiên ứng viên có kinh nghiệm MLOps/LLMOps, Cloud Platform.|-Am hiểu Bộ luật Lao động, BHXH và các quy định liên quan.<br>-Kỹ năng xây dựng quy trình, chính sách và soạn thảo văn bản.<br>-Kỹ năng phân tích, giải quyết vấn đề và cải tiến quy trình.<br>-Kỹ năng giao tiếp, phối hợp với các phòng ban.<br>-Thành thạo Microsoft Office/Google Workspace;| … |
+| Thái độ |-Chủ động: Tự giác làm việc, tìm giải pháp trước khi hỏi, không đợi nhắc nhở.<br>-Trách nhiệm: Dám làm dám chịu, tập trung sửa sai thay vì đổ lỗi.<br>-Hợp tác: Đặt mục tiêu chung lên trước, sẵn sàng hỗ trợ đồng nghiệp.<br>-Tôn trọng: Lắng nghe cấp trên, lịch sự với đồng nghiệp, cầu thị khi bị góp ý.<br>-Kỷ luật: Đúng giờ, tuân thủ nội quy, hoàn thành công việc đúng hạn.<br>-Cầu tiến: Luôn học hỏi, chủ động cập nhật kỹ năng mới, không ngại thay đổi.<br>-Chính trực: Trung thực trong báo cáo, minh bạch và giữ chữ tín.<br>-Xử lý tình huống giao tiếp khó xử với đồng nghiệp hoặc sếp|-Chủ động: Tự giác làm việc, tìm giải pháp trước khi hỏi, không đợi nhắc nhở.<br>-Trách nhiệm: Dám làm dám chịu, tập trung sửa sai thay vì đổ lỗi.<br>-Hợp tác: Đặt mục tiêu chung lên trước, sẵn sàng hỗ trợ đồng nghiệp.<br>-Tôn trọng: Lắng nghe cấp trên, lịch sự với đồng nghiệp, cầu thị khi bị góp ý.<br>-Kỷ luật: Đúng giờ, tuân thủ nội quy, hoàn thành công việc đúng hạn.<br>-Cầu tiến: Luôn học hỏi, chủ động cập nhật kỹ năng mới, không ngại thay đổi.<br>-Chính trực: Trung thực trong báo cáo, minh bạch và giữ chữ tín.<br>-Xử lý tình huống giao tiếp khó xử với đồng nghiệp hoặc sếp|-Chủ động: Tự giác làm việc, tìm giải pháp trước khi hỏi, không đợi nhắc nhở.<br>-Trách nhiệm: Dám làm dám chịu, tập trung sửa sai thay vì đổ lỗi.<br>-Hợp tác: Đặt mục tiêu chung lên trước, sẵn sàng hỗ trợ đồng nghiệp.<br>-Tôn trọng: Lắng nghe cấp trên, lịch sự với đồng nghiệp, cầu thị khi bị góp ý.<br>-Kỷ luật: Đúng giờ, tuân thủ nội quy, hoàn thành công việc đúng hạn.<br>-Cầu tiến: Luôn học hỏi, chủ động cập nhật kỹ năng mới, không ngại thay đổi.<br>-Chính trực: Trung thực trong báo cáo, minh bạch và giữ chữ tín.<br>-Xử lý tình huống giao tiếp khó xử với đồng nghiệp hoặc sếp| … |
+| Công cụ |-Cho người mới / Không chuyên: Canva (Dễ dùng, kéo thả, nhiều mẫu sẵn).<br>-Thiết kế chuyên nghiệp (2D): Adobe Photoshop (Chỉnh sửa ảnh, poster) và Adobe Illustrator (Thiết kế logo, vector).<br>-Dàn trang sách báo: Adobe InDesign.<br>-Đồ họa 3D: Blender (Miễn phí) và SketchUp (Kiến trúc, nội thất).<br>Tìm ý tưởng & Màu sắc: Pinterest, Behance và Color Hunt.|-Ngôn ngữ: SQL (bắt buộc), Python.Lưu trữ: PostgreSQL, Snowflake, BigQuery (Data Warehouse).<br>-Xử lý dữ liệu lớn: Apache Spark, dbt (Biến đổi dữ liệu).<br>-Điều phối (Orchestration): Apache Airflow (Lập lịch chạy pipeline).<br>-Dữ liệu thời gian thực: Apache Kafka.<br>-Đám mây: AWS hoặc GCP.|-Quản lý nhân sự tổng thể (HRIS): Workday, BambooHR, Base HRM (Việt Nam).<br>-Chấm công & Tính lương: Tanca, Gusto, hoặc Excel.<br>-Điều phối quy trình (Onboarding/Offboarding): ClickUp, Notion, Kissflow.<br>-Lưu trữ & Ký hợp đồng: Google Workspace, DocuSign, FPT.eContract.<br>-Báo cáo & Phân tích: Microsoft Excel, Power BI.| … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 |CÔNG TY TNHH NEXON CREATIVE STUDIO VINA|Thiết Kế Đồ Họa|https://www.vietnamworks.com/3d-rigger--2089219-jv?source=searchResults&searchType=2&placement=2089219&sortBy=date&qs=0|19/09/2026|
+| 2 |Toshiba Software Development (Vietnam) Co., Ltd| Data Engineer|https://www.vietnamworks.com/ai-engineer-muc-luong-upto-35-trieu-1789633061113071341-2108441-jv?source=searchResults&searchType=2&placement=2108441&sortBy=date&qs=0|19/09/2026|
+| 3 |Công ty TNHH Genesis Entertainments|Hr Operations|https://www.vietnamworks.com/hr-generalist-candb-2091541-jv?utm_source_navi=jobdetail&utm_medium_navi=rightcorner&utm_campaign_navi=relevantjobs&utm_content_navi=SmartNaviIOP|19/09/2026|
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
