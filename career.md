@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** |-Khởi động bằng cách đưa ra câu lệnh (Prompt) rõ ràng về ngữ cảnh, vai trò, mục tiêu và kết quả mong muốn để AI định hướng chính xác vấn đề.|
+| **Hoài** |-Đặt lại câu hỏi phản biện, kiểm tra chéo thông tin (Fact-check) và liên tục "vặn" AI bằng các góc nhìn khác nhau để phát hiện lỗ hổng hoặc câu trả lời ảo (hallucination).|
+| **Học** |-Phân tích cách AI hệ thống hóa tri thức, tiếp thu các góc nhìn mới, cách đặt vấn đề sâu sắc hơn và rút kinh nghiệm để tối ưu lại câu lệnh.|
+| **Hành** |-Áp dụng kiến thức, mã nguồn, nội dung hoặc dàn ý do AI hỗ trợ vào công việc thực tế; chỉnh sửa và biến sản phẩm thành của riêng mình.|
 
-Công cụ đã dùng: …
+Công cụ đã dùng:-Chatbot AI tổng hợp / Viết lách & Trí tuệ: ChatGPT, Gemini, Claude.<br>-Lập trình & Kỹ thuật: GitHub
