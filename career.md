@@ -10,7 +10,7 @@ title: Chân dung nghề của tôi
 ## Hướng tôi nhắm
 Kỹ Sư Phần Mềm
 
-Vì sao:tôi mê nhất cái cảm giác lúc cắm đầu vào giải một bài toán khó hay sửa xong một cái bug hành mình cả buổi. Những lúc đó, sự căng thẳng và mệt mỏi như tan biến sạch, thay vào đó là một niềm vui sướng cực kỳ khó tả—giống như vừa vượt qua một thử thách lớn và tự tay biến ý tưởng thành một sản phẩm chạy mượt mà. Cái cảm giác nhìn thấy thành quả thực tế do chính mình làm ra, dù nhỏ thôi, luôn cho tôi động lực mạnh mẽ để tiếp tục chinh phục những mục tiêu tiếp theo.
+Vì sao:-Vì tôi mê nhất cái cảm giác lúc cắm đầu vào giải một bài toán khó hay sửa xong một cái bug hành mình cả buổi. Những lúc đó, sự căng thẳng và mệt mỏi như tan biến sạch, thay vào đó là một niềm vui sướng cực kỳ khó tả—giống như vừa vượt qua một thử thách lớn và tự tay biến ý tưởng thành một sản phẩm chạy mượt mà. Cái cảm giác nhìn thấy thành quả thực tế do chính mình làm ra, dù nhỏ thôi, luôn cho tôi động lực mạnh mẽ để tiếp tục chinh phục những mục tiêu tiếp theo.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
