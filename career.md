@@ -52,9 +52,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng:-Việc thu thập dữ liệu vị trí nhằm phục vụ mục đích kỹ thuật, nâng cao trải nghiệm người dùng hoặc đảm bảo an toàn hệ thống, không nhằm mục đích trục lợi bất chính hay mua bán cho bên thứ ba.<br>-Thiếu sót trong Chính sách quyền riêng tư (Privacy Policy) chỉ là sơ suất về mặt văn bản/thủ tục hành chính chứ không cố tình xâm phạm đời tư, và công ty có thể khắc phục ngay lập tức bằng cách bổ sung điều khoản hoặc phát hành bản cập nhật chính sách mới.
+- Phía người dùng lập luận rằng:-Dữ liệu vị trí là thông tin cá nhân nhạy cảm; việc thu thập khi chưa có sự đồng ý rõ ràng (Informed Consent) và không công khai trong chính sách là vi phạm nghiêm trọng quyền riêng tư và sự riêng tư cá nhân.<br>-Người dùng bị mất niềm tin vào sản phẩm vì bị theo dõi ngầm, đồng thời đối mặt với rủi ro rò rỉ dữ liệu vị trí cá nhân mà không hề được cảnh báo trước.
+- **Quyết định của tôi**, và vì sao:-Đình chỉ ngay lập tức việc thu thập dữ liệu vị trí, phát hành bản cập nhật Chính sách quyền riêng tư minh bạch, và yêu cầu người dùng xác nhận lại sự đồng ý (Opt-in) trước khi kích hoạt lại tính năng này.<br>Vì sao:<br>-Tuân thủ pháp luật nghiêm ngặt: Theo quy định pháp luật về bảo vệ dữ liệu cá nhân (như Nghị định 13/2023/NĐ-CP tại Việt Nam hoặc GDPR quốc tế), việc thu thập dữ liệu cá nhân nhạy cảm khi chưa thông báo và chưa được sự đồng ý của chủ thể dữ liệu là vi phạm pháp luật trực tiếp, khiến công ty đối mặt với nguy cơ phạt hành chính rất lớn và pháp lý kéo dài.<br>-Ủy quyền và sự đồng ý (Consent): Lập luận của luật sư chỉ giảm nhẹ về mặt động cơ chứ không làm thay đổi tính chất vi phạm. Sơ suất văn bản không thể thay thế cho sự đồng ý hợp pháp của người dùng.<br>-Bảo vệ uy tín và thương hiệu: Việc cố chấp che đậy hoặc tiếp tục thu thập sẽ biến một lỗi vận hành thành một scandal khủng hoảng truyền thông về niềm tin sản phẩm. Hành động minh bạch, nhận lỗi và khắc phục triệt để là cách duy nhất để giữ chân người dùng và đảm bảo sự phát triển bền vững của ứng dụng.
 
 ## Ba việc tôi làm trong học kỳ này
 
