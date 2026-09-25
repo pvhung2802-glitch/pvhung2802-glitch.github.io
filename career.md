@@ -44,9 +44,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: -Phân loại: Nhóm Knowledge (Kiến thức) – Skills (Kỹ năng) – Attitude (Thái độ).<br>-Hình thức: Bảng phân tích năng lực.<br>  Nội dung:<br>-Mức độ phù hợp (Rất cao / Tốt).<br>-Xếp hạng tương quan (Top 5% - Top 15%).
+- Tin tuyển dụng thật ra viết: -Phân loại: Chia làm 2 nhóm gồm Yêu cầu chính (Học vấn, kinh nghiệm AI/LLM, lập trình Python, kiến thức ML/DL) và Ưu tiên (MLOps/LLMOps, Cloud Platform, đọc paper, tiếng Anh, thái độ).<br>-Hình thức: Danh sách gạch đầu dòng mô tả tiêu chuẩn tuyển dụng.<br>-Mục đích: Đưa ra tiêu chí tuyển dụng từ công ty.
+- Tôi sửa thành:  -Phân loại: Nhóm Knowledge (Kiến thức) – Skills (Kỹ năng) – Attitude (Thái độ).<br> Hình thức: Bảng phân tích năng lực.<br>  Nội dung:<br>-Mức độ phù hợp (Rất cao / Tốt).<br>-Xếp hạng tương quan (Top 5% - Top 15%).<br>-Chi tiết hóa các kỹ thuật Prompt Engineering, RAG, Fine-tuning, CI/CD cho AI.
 
 ## Một quyết định đạo đức
 
@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành học phần 
+2 .Thành thạo các công cụ hỗ trợ học tập
+3.Xác định được hướng đi cho tương lai
 
 Cụ thể tới mức tháng sau kiểm được.
 
