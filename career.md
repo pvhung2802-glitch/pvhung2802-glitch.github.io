@@ -56,7 +56,7 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 - **Quyết định của tôi**, và vì sao:-Đình chỉ ngay lập tức việc thu thập dữ liệu vị trí, phát hành bản cập nhật Chính sách quyền riêng tư minh bạch, và yêu cầu người dùng xác nhận lại sự đồng ý (Opt-in) trước khi kích hoạt lại tính năng này.<br>Vì sao:<br>-Tuân thủ pháp luật nghiêm ngặt: Theo quy định pháp luật về bảo vệ dữ liệu cá nhân (như Nghị định 13/2023/NĐ-CP tại Việt Nam hoặc GDPR quốc tế), việc thu thập dữ liệu cá nhân nhạy cảm khi chưa thông báo và chưa được sự đồng ý của chủ thể dữ liệu là vi phạm pháp luật trực tiếp, khiến công ty đối mặt với nguy cơ phạt hành chính rất lớn và pháp lý kéo dài.<br>-Ủy quyền và sự đồng ý (Consent): Lập luận của luật sư chỉ giảm nhẹ về mặt động cơ chứ không làm thay đổi tính chất vi phạm. Sơ suất văn bản không thể thay thế cho sự đồng ý hợp pháp của người dùng.<br>-Bảo vệ uy tín và thương hiệu: Việc cố chấp che đậy hoặc tiếp tục thu thập sẽ biến một lỗi vận hành thành một scandal khủng hoảng truyền thông về niềm tin sản phẩm. Hành động minh bạch, nhận lỗi và khắc phục triệt để là cách duy nhất để giữ chân người dùng và đảm bảo sự phát triển bền vững của ứng dụng.
 
 ## Ba việc tôi làm trong học kỳ này
-1. Hoàn thành học phần<br> 2.Thành thạo các công cụ hỗ trợ học tập<br>3.Xác định được hướng đi cho tương lai
+1.Hoàn thành học phần<br> 2.Thành thạo các công cụ hỗ trợ học tập<br>3.Xác định được hướng đi cho tương lai
 
 Cụ thể tới mức tháng sau kiểm được.
 
