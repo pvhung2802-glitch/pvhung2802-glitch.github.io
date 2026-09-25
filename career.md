@@ -57,7 +57,7 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. Hoàn thành học phần<br> 
+ 1. Hoàn thành học phần<br> 
 2.Thành thạo các công cụ hỗ trợ học tập<br>
 3.Xác định được hướng đi cho tương lai
 
