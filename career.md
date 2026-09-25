@@ -25,9 +25,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 |CÔNG TY TNHH NEXON CREATIVE STUDIO VINA|Thiết Kế Đồ Họa| https://www.vietnamworks.com/3d-rigger--2089219-jv?source=searchResults&searchType=2&placement=2089219&sortBy=date&qs=0|18/09/2026 |
-| 2 |Toshiba Software Development (Vietnam) Co., Ltd|Data Engineer|https://www.vietnamworks.com/ai-engineer-muc-luong-upto-35-trieu-1789633061113071341-2108441-jv?source=searchResults&searchType=2&placement=2108441&sortBy=date&qs=0 |18/09/2026|
-| 3 |Công ty TNHH Genesis Entertainments|Hr Operations|https://www.vietnamworks.com/hr-generalist-candb-2091541-jv?utm_source_navi=jobdetail&utm_medium_navi=rightcorner&utm_campaign_navi=relevantjobs&utm_content_navi=SmartNaviIOP |18/09/2026|
+| 1 |CÔNG TY TNHH NEXON CREATIVE STUDIO VINA|Thiết Kế Đồ Họa| https://www.vietnamworks.com/3d-rigger--2089219-jv?source=searchResults&searchType=2&placement=2089219&sortBy=date&qs=0|20/09/2026 |
+| 2 |Toshiba Software Development (Vietnam) Co., Ltd|Data Engineer|https://www.vietnamworks.com/ai-engineer-muc-luong-upto-35-trieu-1789633061113071341-2108441-jv?source=searchResults&searchType=2&placement=2108441&sortBy=date&qs=0 |20/09/2026|
+| 3 |Công ty TNHH Genesis Entertainments|Hr Operations|https://www.vietnamworks.com/hr-generalist-candb-2091541-jv?utm_source_navi=jobdetail&utm_medium_navi=rightcorner&utm_campaign_navi=relevantjobs&utm_content_navi=SmartNaviIOP |20/09/2026|
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
