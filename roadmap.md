@@ -68,7 +68,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** Yêu cầu AI quét cấu trúc sơ đồ đào tạo ngành Khoa học Máy tính của HUTECH để trích xuất danh sách học phần theo từng học kỳ||
+| **Hỏi** |Yêu cầu AI quét cấu trúc sơ đồ đào tạo ngành Khoa học Máy tính của HUTECH để trích xuất danh sách học phần theo từng học kỳ|
 | **Hoài** |Đối chiếu kỹ từng mã môn, số tín chỉ (lý thuyết/thực hành) xem có bịa đặt hoặc nhầm lẫn học kỳ hay không|
 | **Học** |Rút kinh nghiệm về cách phân bổ các khối kiến thức đại cương, cơ sở ngành và chuyên ngành từ năm 1 đến năm 4.|
 | **Hành** | … |
