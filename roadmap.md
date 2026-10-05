@@ -24,21 +24,21 @@ Kĩ sư phần mềm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 |POS106<br>ENC122<br>MAT104<br>CMP167<br>CMP368<br>COS135<br>COS323|Chủ nghĩa xã hội khoa học<br>Anh ngữ 3<br>Toán rời rạc<br>Lập trình hướng đối tượng<br>Thực hành lập trình hướng đối tượng<br>Nhập môn cơ sở dữ liệu<br>Thực hành cơ sở dữ liệu|2<br>3<br>3<br>3<br>1<br>3<br>1|
-| 4 |POS107<br>ENC123<br>MAT105<br>COS120<br>COS321<br>COS1002<br>COS324|Lịch sử Đảng Cộng sản Việt Nam<br>Anh ngữ 4<br>Xác suất thống kê<br>Cấu trúc dữ liệu và giải thuật<br>Thực hành cấu trúc dữ liệu và giải thuật<br>Các hệ quản trị cơ sở dữ liệu<br>Thực hành quản trị cơ sở dữ liệu|2<br>3<br>3<br>3<br>1<br>3<br>1|
+| 3 |POS106<br>ENC122<br>MAT104<br>CMP167<br>CMP368<br>COS135<br>COS323<br>CMP3014|Chủ nghĩa xã hội khoa học<br>Anh ngữ 3<br>Toán rời rạc<br>Lập trình hướng đối tượng<br>Thực hành lập trình hướng đối tượng<br>Nhập môn cơ sở dữ liệu<br>Thực hành cơ sở dữ liệu<br>Thực hành lý thuyết đồ thị|2<br>3<br>3<br>3<br>1<br>3<br>1<br>1|
+| 4 |POS107<br>ENC123<br>MAT105<br>COS120<br>COS321<br>COS1002<br>COS324<br>COS159|Lịch sử Đảng Cộng sản Việt Nam<br>Anh ngữ 4<br>Xác suất thống kê<br>Cấu trúc dữ liệu và giải thuật<br>Thực hành cấu trúc dữ liệu và giải thuật<br>Các hệ quản trị cơ sở dữ liệu<br>Thực hành quản trị cơ sở dữ liệu<br>Đồ họa ứng dụng trong khoa học máy tính |2<br>3<br>3<br>3<br>1<br>3<br>1<br>3|
 
 ### Năm ba
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 |POS103<br>LAW106<br>CMP172<br>CMP373<br>CMP101<br>CMP177<br>AIT1001|Tư tưởng Hồ Chí Minh<br>Pháp luật đại cương<br>Mạng máy tính<br>Thực hành mạng máy tính<br>Công nghệ phần mềm<br>Lập trình trên thiết bị di động<br>Cơ sở trí tuệ nhân tạo|2<br>3<br>3<br>1<br>3<br>3<br>3|
-| 6 |ENS192<br>CMP174<br>CMP170<br>CMP371<br>AIT1002<br>AIT3007<br>COS158<br>COS360|Phát triển bền vững<br>Bảo mật thông tin<br>Lập trình trên môi trường Windows<br>Thực hành lập trình trên môi trường Windows<br>Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo<br>Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo<br>Lập trình devops<br>Thực hành lập trình devops|3<br>3<br>3<br>1<br>3<br>1<br>3<br>1|
+| 5 |POS103<br>LAW106<br>CMP172<br>CMP373<br>CMP101<br>CMP177<br>AIT1001<br>AIT104<br>AIT306|Tư tưởng Hồ Chí Minh<br>Pháp luật đại cương<br>Mạng máy tính<br>Thực hành mạng máy tính<br>Công nghệ phần mềm<br>Lập trình trên thiết bị di động<br>Cơ sở trí tuệ nhân tạo<br>Máy học<br>Thực hành máy học|2<br>3<br>3<br>1<br>3<br>3<br>3<br>3<br>1|
+| 6 |ENS192<br>CMP174<br>CMP170<br>CMP371<br>AIT1002<br>AIT3007<br>COS158<br>COS360<br>CMP1020|Phát triển bền vững<br>Bảo mật thông tin<br>Lập trình trên môi trường Windows<br>Thực hành lập trình trên môi trường Windows<br>Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo<br>Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo<br>Lập trình devops<br>Thực hành lập trình devops<br>Học sâu|3<br>3<br>3<br>1<br>3<br>1<br>3<br>1<br>3|
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 |COS129<br>CMP5089<br>AIT103<br>AIT305<br>CMP1047<br>CMP3055<br>COS5011|Điện toán đám mây<br>Thực tập điện toán đám mây<br>Lập trình cho trí tuệ nhân tạo<br>Thực hành lập trình cho trí tuệ nhân tạo<br>Phân tích và trực quan dữ liệu<br>Thực hành phân tích và trực quan dữ liệu<br>Thực tập cơ sở ngành Khoa học máy tính|3<br>1<br>3<br>1<br>3<br>1<br>3|
+| 7 |COS129<br>CMP5089<br>AIT103<br>AIT305<br>CMP1047<br>CMP3055<br>COS5011<br>AIT108<br>AIT307<br>COS1010|Điện toán đám mây<br>Thực tập điện toán đám mây<br>Lập trình cho trí tuệ nhân tạo<br>Thực hành lập trình cho trí tuệ nhân tạo<br>Phân tích và trực quan dữ liệu<br>Thực hành phân tích và trực quan dữ liệu<br>Thực tập cơ sở ngành Khoa học máy tính<br>Xử lý ảnh và ứng dụng<br>Thực hành xử lý ảnh và ứng dụng<br>Cơ sở công nghệ chuỗi khối|3<br>1<br>3<br>1<br>3<br>1<br>3<br>3<br>1<br>3|
 | 8 |COS464<br>COS570<br>COS4012|Đồ án chuyên ngành Khoa học máy tính<br>Thực tập tốt nghiệp ngành Khoa học máy tính<br>Đồ án tốt nghiệp Khoa học máy tính|3<br>3<br>9|
 
 **Tổng cộng:150 tín chỉ tích lũy (và 5 tín chỉ không tích lũy).** Phải khớp với số tín chỉ tích luỹ của chương trình.
