@@ -4,7 +4,7 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
+
 > **CẢNH BÁO QUAN TRỌNG:** trang này công khai, ai cũng đọc được.
 > Tuyệt đối không đưa lên đây ảnh có mã xác thực, số điện thoại, địa chỉ nhà,
 > hay bất cứ thứ gì em không muốn một người lạ nhìn thấy sau bốn năm.
