@@ -11,8 +11,8 @@ title: Dấu chân số của tôi
 > Ảnh chụp bằng chứng nộp riêng qua ô nộp bài thứ hai trên LMS.
 
 ## Tôi tự tìm tên mình và thấy gì
-
-…
+Không có thông tin công khai hoặc dữ liệu cụ thể nào trên hệ thống liên quan đến cá nhân tên "Phạm Văn Hùng" với mã định danh hoặc mã lớp "26DCSA1".
+Nếu đây là thông tin về sinh viên, học viên hoặc mã lớp của một trường học cụ thể, vui lòng cung cấp thêm tên trường hoặc ngữ cảnh chi tiết để được hỗ trợ chính xác hơn.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
