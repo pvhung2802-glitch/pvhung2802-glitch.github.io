@@ -19,7 +19,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):**Nhóm mình làm bài nhóm lúc nào cũng gấp, toàn thức đêm chạy deadline.
 
 **Vấn đề thật (sau khi bóc):** Hơn 70% khối lượng công việc của nhóm diễn ra trong 48 giờ cuối trước hạn nộp, vì không ai biết rõ phần việc của mình bao gồm những gì, và hạn nội bộ của từng phần không tồn tại. Hệ quả là bài ghép lại lệch giọng văn, trùng nội dung, và không còn thời gian sửa.
-*Người viết phần này: …*
+*Người viết phần này: Phạm Văn Hùng*
 
 ### 2. Cách đo và số liệu
 
@@ -30,11 +30,12 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-|Ngày 6 |15% công việc|Chỉ dừng ở mức họp bàn chung chung, chưa ai thực sự làm phần của mình|
-|Ngày 6 (Sát deadline 48h)|50% công việc|Cả nhóm hoảng loạn thức đến 2h sáng để làm cho xong phần thô|
-|Ngày 7 (Sát deadline 12h)|35% còn lại|Cuống quít ghép bài, phát hiện trùng ý và chắp vá giọng văn nhưng không kịp sửa|
+| Ngày 1 | 5/5 người | Các bạn cùng nhau bàn bạc về vấn đề. |
+| Ngày 4 | 3/5 người | Gửi các bài tập dần dần còn mấy bạn kia thì không thấy động tĩnh. |
+| Ngày 6 | 3/5 người | Các bạn thi nhau nhắn hỏi lên nhóm: "Bây giờ làm cái gì?", "Làm thế nào?". |
+| Ngày 7 | 3/5 người | Chỉ có 3 người gánh vác việc hoàn thiện, ghép bài và thức đêm nộp đúng deadline. |
 
-*Người viết phần này: Phạm Văn Hùng*
+*Người viết phần này:Nguyễn Trọng Sơn*
 
 ### 3. Nguyên nhân gốc
 
@@ -52,12 +53,11 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
 Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái thất bại.
 
-| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
+| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / Thất bại |
 |---|---|---|---|---|
-|Trưởng nhóm liên tục nhắn tin giục trên Zalo mỗi ngày|Nguyễn Trọng Sơn|2 ngày| Mọi người đọc tin nhắn nhưng vẫn trì hoãn vì chưa rõ cần làm gì|Thất bại (Gây áp lực nhưng không hiệu quả)|
-|Đặt 1 hạn chót nội bộ chung cho cả bài (trước 2 ngày)|Cả nhóm|2 ngày|Vẫn bị dồn việc vào đúng 24h trước hạn nội bộ đó|Thất bại | 
-|Chia nhỏ Task + Đặt hạn chót nối tiếp+ Bắt buộc nộp bản nháp 50%|Cả nhóm| 3 ngày|Bài xong trước 24h, có đủ thời gian chuốt lại giọng văn và sửa lỗi trùng lặp|Thành công (Giảm 90% áp lực thức đêm)|
-
+| **1. Spam nhắn tin nhắc nhở liên tục trên nhóm Zalo** | Nguyễn Trọng Sơn | 3 ngày | Tin nhắn bị trôi, thành viên cảm thấy bị phiền; đến ngày 6 vẫn có người hỏi "bây giờ làm gì". | **Thất bại** (Chỉ giải quyết phần ngọn, gây tâm lý ức chế). |
+| **2. Thiết lập Hạn nộp nội bộ (Internal Deadline) trước 3 ngày** | Phạm Văn Hùng | 4 ngày | 3/5 người nộp đúng hạn nội bộ; 2 người trễ nhưng nhóm vẫn còn đủ 24h để tổng hợp và sửa chữa. | **Thành công một phần** (Giảm áp lực dồn giờ chót nhưng vẫn còn thành viên trễ hạn). |
+| **3. Lập Bảng Phân công chi tiết trên Google Sheet + Họp Checkpoint 15 phút giữa tuần** | Phạm Quốc Huy | 7 ngày | 100% thành viên rõ việc, không còn câu hỏi ngô nghê ở ngày sát nộp; bài hoàn thiện trước hạn chính 12 giờ. | **Thành công** (Giải quyết triệt để nguyên nhân gốc). |
 *Người viết phần này: Phạm Quốc Huy*
 
 ### 5. Cẩm nang cho người sau
@@ -78,18 +78,18 @@ Bỏ thói quen ghép bài sát giờ nộp rồi bấm nộp luôn mà không �
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Nếu không chốt hạn nội bộ cho từng bước nhỏ, chắc chắn 80% công việc sẽ dồn vào đêm cuối cùng. Bài viết lúc 3 giờ sáng luôn là một thảm họa ghép vội với 3 giọng văn khác nhau và đầy lỗi trùng lặp!
 
-*Người viết phần này: Phạm Văn Hùng*
+*Người viết phần này:Nguyễn Đăng Khoa*
 ## 1. Cách chia việc
 
-- Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý,...
+- Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này: nguyễn Trọng Sơn*
 
 ## 2. Cách đặt hạn cho nhau
 
 -Cách đặt hạn: Đặt hạn làm sao cho hợp lý. Chẳng hạn có một bạn bị kẹt vì vấn đề gì đó có thể cho bạn hạn thêm 2 ngày, còn không bị kẹt thì từ lúc deadline bắt đầu sẽ là 4 ngày cho từng người
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Văn Hùng*
 
 ## 3. Cách họp
 
