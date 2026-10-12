@@ -58,7 +58,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | **1. Spam nhắn tin nhắc nhở liên tục trên nhóm Zalo** | Nguyễn Trọng Sơn | 3 ngày | Tin nhắn bị trôi, thành viên cảm thấy bị phiền; đến ngày 6 vẫn có người hỏi "bây giờ làm gì". | **Thất bại** (Chỉ giải quyết phần ngọn, gây tâm lý ức chế). |
 | **2. Thiết lập Hạn nộp nội bộ (Internal Deadline) trước 3 ngày** | Phạm Văn Hùng | 4 ngày | 3/5 người nộp đúng hạn nội bộ; 2 người trễ nhưng nhóm vẫn còn đủ 24h để tổng hợp và sửa chữa. | **Thành công một phần** (Giảm áp lực dồn giờ chót nhưng vẫn còn thành viên trễ hạn). |
 | **3. Lập Bảng Phân công chi tiết trên Google Sheet + Họp Checkpoint 15 phút giữa tuần** | Phạm Quốc Huy | 7 ngày | 100% thành viên rõ việc, không còn câu hỏi ngô nghê ở ngày sát nộp; bài hoàn thiện trước hạn chính 12 giờ. | **Thành công** (Giải quyết triệt để nguyên nhân gốc). |
-*Người viết phần này: Phạm Quốc Huy*
+*Người viết phần này: Phạm Văn Hùng*
 
 ### 5. Cẩm nang cho người sau
 
@@ -83,7 +83,7 @@ Bỏ thói quen ghép bài sát giờ nộp rồi bấm nộp luôn mà không �
 
 - Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý
 
-*Người viết phần này: nguyễn Trọng Sơn*
+*Người viết phần này: Nguyễn Trọng Sơn*
 
 ## 2. Cách đặt hạn cho nhau
 
