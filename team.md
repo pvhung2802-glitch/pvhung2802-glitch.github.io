@@ -26,7 +26,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
 **Cách đo:** Thống kê số lượng thành viên tương tác, trao đổi và tiến độ gửi bài tập trong nhóm Zalo của dự án.  
-**Số ngày đo:** 7 ngày · **Số người tham gia đo:** 2 người  
+**Số ngày đo:** 7 ngày · **Số người tham gia đo:** 3 người  
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
