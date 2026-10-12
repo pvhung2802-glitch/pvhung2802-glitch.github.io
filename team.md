@@ -54,7 +54,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-|Trưởng nhóm liên tục nhắn tin giục trên Zalo mỗi ngày|Nguyễn Trọng |2 ngày| Mọi người đọc tin nhắn nhưng vẫn trì hoãn vì chưa rõ cần làm gì|Thất bại (Gây áp lực nhưng không hiệu quả)|
+|Trưởng nhóm liên tục nhắn tin giục trên Zalo mỗi ngày|Nguyễn Trọng Sơn|2 ngày| Mọi người đọc tin nhắn nhưng vẫn trì hoãn vì chưa rõ cần làm gì|Thất bại (Gây áp lực nhưng không hiệu quả)|
 |Đặt 1 hạn chót nội bộ chung cho cả bài (trước 2 ngày)|Cả nhóm|2 ngày|Vẫn bị dồn việc vào đúng 24h trước hạn nội bộ đó|Thất bại | 
 |Chia nhỏ Task + Đặt hạn chót nối tiếp+ Bắt buộc nộp bản nháp 50%|Cả nhóm| 3 ngày|Bài xong trước 24h, có đủ thời gian chuốt lại giọng văn và sửa lỗi trùng lặp|Thành công (Giảm 90% áp lực thức đêm)|
 
