@@ -120,7 +120,9 @@ Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng g
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| Bước | Nhóm đã làm gì |
+|---|---|
+| **Hỏi** | Nhóm gửi đề bài lên AI để nhờ gợi ý dàn ý tổng quát và đề xuất cách xé nhỏ deadline nội bộ cho 5 thành viên. |
+| **Hoài** | Nhóm nghi vấn lại kết quả của AI: Dàn bài AI gợi ý có bị trùng ý giữa các phần không?.Thời gian AI đề xuất có bị gấp quá so với lịch học của nhóm không? để điều chỉnh lại cho thực tế. |
+| **Học** | Dùng AI như một công cụ rà soát: Nhờ AI đọc lại bài ghép thô để chỉ ra những chỗ bị sai lệch hoặc câu từ còn thô sơ, qua đó nhóm biết cách tự sửa lại. |
+| **Hành** | Cả nhóm tự phân công nhau tự tìm tài liệu, tự gõ nội dung chi tiết và tự tổng hợp lại thành bản báo cáo cuối cùng chứ không sao chép nguyên văn từ AI. |
