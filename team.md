@@ -97,19 +97,19 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 - Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng hoặc người đưa ra kết luận hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này: Cả nhóm*
 
 ## 4. Khi một người mất tích
 
 -Khi một người mất tích nhóm sẽ réo tên trên nhóm, gọi điện để nhắc. Còn nếu mất tích luôn sẽ giao phần deadline đó cho người nào làm với cách là sẽ tăng điểm cho người đó và báo cáo với giảng viên về người "mất tích"
 
-*Người viết phần này: …*
+*Người viết phần này:Cả nhóm*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
 -Nếu nhóm xảy ra bất đồng với nhóm trưởng sẽ xem xét từ vấn đề gốc để đưa ra hướng đi hợp lý hơn cho các bạn, xoa dịu tình hình bằng những câu đùa, sau đó lại trở lại với deadline khi đã phân hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này:Cả nhóm*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
