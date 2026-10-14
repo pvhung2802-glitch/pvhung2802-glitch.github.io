@@ -24,9 +24,8 @@ Trang Bảng năng lực rút từ ba tin tuyển dụng (Bài 1), vì việc ph
 
 Tôi sẽ viết lại trang Bản đồ học tập bốn năm (Bài 2), theo cách cá nhân hóa hơn thay vì chỉ bám sát chương trình đào tạo chuẩn 150 tín chỉ của HUTECH. Tôi sẽ lồng ghép thêm thời gian biểu tự học các chứng chỉ bên ngoài (như Cisco Networking Academy, an toàn thông tin) hoặc vạch ra cách ứng dụng thuật toán vào các sở thích cá nhân.
 ## Ba điều tôi mang sang học kỳ sau
-
-1. Tuân thủ quy tắc "Không copy-paste 100%": Dù sát giờ nộp bài đến đâu, mọi dòng code hay văn bản do AI (ChatGPT, Claude, Gemini) sinh ra đều phải được đọc lại, sửa lỗi và biến thành tư duy của chính mình.
-2.Kỷ luật sự tập trung: Tiếp tục tận dụng Chế độ Học tập có hướng dẫn (Guided Access) trên iOS để khóa các ứng dụng xao nhãng, ép bản thân giữ trạng thái "flow" khi cắm đầu giải quyết một bài toán Toán học khó hay một bài tập cơ sở lập trình.
+Không copy-paste 100% dù sát giờ nộp bài đến đâu, mọi dòng code hay văn bản do AI (ChatGPT, Claude, Gemini) sinh ra đều phải được đọc lại, sửa lỗi và biến thành tư duy của chính mình.
+Tiếp tục tận dụng Chế độ Học tập có hướng dẫn (Guided Access) trên iOS để khóa các ứng dụng xao nhãng, ép bản thân giữ trạng thái "flow" khi cắm đầu giải quyết một bài toán Toán học khó hay một bài tập cơ sở lập trình.
 3. Giữ tinh thần "Hoài nghi và Trách nhiệm": Không bao giờ bỏ qua tính chính xác của dữ liệu. Giống như bài học đạo đức về quyền riêng tư dữ liệu vị trí, mọi thứ làm ra đều phải tuân thủ sự liêm chính tuyệt đối.
 
 ## Đoạn tự giới thiệu chín mươi giây
