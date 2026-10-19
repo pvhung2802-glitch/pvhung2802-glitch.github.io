@@ -78,7 +78,7 @@ Bỏ thói quen ghép bài sát giờ nộp rồi bấm nộp luôn mà không �
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Nếu không chốt hạn nội bộ cho từng bước nhỏ, chắc chắn 80% công việc sẽ dồn vào đêm cuối cùng. Bài viết lúc 3 giờ sáng luôn là một thảm họa ghép vội với 3 giọng văn khác nhau và đầy lỗi trùng lặp!
 
-*Người viết phần này:Nguyễn Đăng Khoa*
+*Người viết phần này:Phạm Văn Hùng*
 ## 1. Cách chia việc
 
 - Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý
