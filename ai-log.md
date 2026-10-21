@@ -20,8 +20,10 @@ title: Nhật ký dùng AI
 ## Ba lần nó nói sai mà tôi bắt được
 
 1. Sai mốc thời gian văn hóa – tín ngưỡng địa phương:Khi tôi hỏi về Lễ hội Đua bò Bảy Núi (An Giang), AI đã trả lời sai rằng lễ hội diễn ra vào dịp Tết Chôl Chnăm Thmây (tháng 4 dương lịch). Thực tế, đây là sự kiện gắn liền với dịp Lễ Sene Đôn Ta của người Khmer, diễn ra vào khoảng cuối tháng 8 đến đầu tháng 9 âm lịch.
-2.Sai địa lý và lịch sử địa phương:Khi hỏi về thành phố Long Xuyên và con kênh nối đi Rạch Giá, AI đồng ý với giả định sai của tôi khi cho rằng Long Xuyên nằm bên sông Tiền và con kênh đó là kênh Vĩnh Tế. Thực tế, Long Xuyên nằm bên bờ sông Hậu, con kênh nối Long Xuyên - Rạch Giá là kênh Thoại Hà, còn kênh Vĩnh Tế lại nối Châu Đốc với Hà Tiên.
-3.Sai quy chế đào tạo tín chỉ đại học:AI trả lời rằng sinh viên rớt môn có thể "xin giáo viên làm bài tập bù hoặc kiểm tra gỡ điểm". AI đã áp dụng tư duy học phổ thông (cấp 3) vào môi trường đại học, trong khi quy chế đào tạo theo tín chỉ bắt buộc sinh viên phải đóng tiền học lại hoặc thi lại chứ giảng viên không có quyền tự cho làm bài gỡ điểm.
+
+2. Sai địa lý và lịch sử địa phương:Khi hỏi về thành phố Long Xuyên và con kênh nối đi Rạch Giá, AI đồng ý với giả định sai của tôi khi cho rằng Long Xuyên nằm bên sông Tiền và con kênh đó là kênh Vĩnh Tế. Thực tế, Long Xuyên nằm bên bờ sông Hậu, con kênh nối Long Xuyên - Rạch Giá là kênh Thoại Hà, còn kênh Vĩnh Tế lại nối Châu Đốc với Hà Tiên.
+
+3. Sai quy chế đào tạo tín chỉ đại học:AI trả lời rằng sinh viên rớt môn có thể "xin giáo viên làm bài tập bù hoặc kiểm tra gỡ điểm". AI đã áp dụng tư duy học phổ thông (cấp 3) vào môi trường đại học, trong khi quy chế đào tạo theo tín chỉ bắt buộc sinh viên phải đóng tiền học lại hoặc thi lại chứ giảng viên không có quyền tự cho làm bài gỡ điểm.
 
 ## Điều tôi học được về cách làm việc với nó
 
