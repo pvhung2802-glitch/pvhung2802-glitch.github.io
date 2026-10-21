@@ -4,7 +4,7 @@ title: Nhìn lại học kỳ
 
 # Nhìn lại học kỳ
 
-> **Bài 6
+
 ## Tôi đã thay đổi thế nào
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
