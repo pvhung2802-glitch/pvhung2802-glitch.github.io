@@ -4,7 +4,6 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3
 
 **Nhóm:** Chăm viết code · **Thành viên:** Phạm Văn Hùng
 
