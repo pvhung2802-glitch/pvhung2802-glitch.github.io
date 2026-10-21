@@ -4,7 +4,7 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 ·
+
 
 ## Hướng tôi nhắm
 Kỹ Sư Phần Mềm
