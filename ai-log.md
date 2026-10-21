@@ -19,10 +19,10 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. Sai toán logic thực tế: Khi tôi hỏi câu đố "Luộc 1 quả trứng mất 5 phút, luộc 3 quả trong cùng một nồi mất bao lâu?", AI làm phép tính nhân $5 \times 3 = 15$ phút mà không hiểu rằng luộc chung một nồi thì thời gian vẫn là 5 phút.
-2.Sai câu đố mẹo ngữ nghĩa: Khi hỏi "Bể có 5 con cá, 2 con bị chết đuối thì còn mấy con?", AI làm phép trừ $5 - 2 = 3$ con sống mà quên mất cá sống dưới nước nên không thể "chết đuối".
-3.Sai quy chế đại học: AI trả lời rằng sinh viên khi rớt môn có thể "xin giáo viên làm bài kiểm tra gỡ điểm", trong khi thực tế quy chế tín chỉ ở đại học bắt buộc phải đóng tiền học lại hoặc thi lại.
+1. Sai mốc thời gian văn hóa – tín ngưỡng địa phương:Khi tôi hỏi về Lễ hội Đua bò Bảy Núi (An Giang), AI đã trả lời sai rằng lễ hội diễn ra vào dịp Tết Chôl Chnăm Thmây (tháng 4 dương lịch). Thực tế, đây là sự kiện gắn liền với dịp Lễ Sene Đôn Ta của người Khmer, diễn ra vào khoảng cuối tháng 8 đến đầu tháng 9 âm lịch.
+2.Sai địa lý và lịch sử địa phương:Khi hỏi về thành phố Long Xuyên và con kênh nối đi Rạch Giá, AI đồng ý với giả định sai của tôi khi cho rằng Long Xuyên nằm bên sông Tiền và con kênh đó là kênh Vĩnh Tế. Thực tế, Long Xuyên nằm bên bờ sông Hậu, con kênh nối Long Xuyên - Rạch Giá là kênh Thoại Hà, còn kênh Vĩnh Tế lại nối Châu Đốc với Hà Tiên.
+3.Sai quy chế đào tạo tín chỉ đại học:AI trả lời rằng sinh viên rớt môn có thể "xin giáo viên làm bài tập bù hoặc kiểm tra gỡ điểm". AI đã áp dụng tư duy học phổ thông (cấp 3) vào môi trường đại học, trong khi quy chế đào tạo theo tín chỉ bắt buộc sinh viên phải đóng tiền học lại hoặc thi lại chứ giảng viên không có quyền tự cho làm bài gỡ điểm.
 
 ## Điều tôi học được về cách làm việc với nó
 
-Dùng AI giống như nhờ một người bạn học cùng lớp gõ máy rất nhanh nhưng lại hay trả lời "phán bừa" mỗi khi gặp câu hỏi mẹo hoặc kiến thức thực tế. AI rất giỏi trong việc gợi ý ý tưởng ban đầu, sửa lỗi chính tả hay dựng khung bài làm để giúp tôi thắng được sự trì hoãn.Tuy nhiên, tôi nhận ra mình không bao giờ được copy-paste nguyên xi lời AI viết vào bài nộp.
+Dùng AI giống như nhờ một người bạn gõ máy rất nhanh nhưng lại hay trả lời "phán bừa" mỗi khi gặp câu hỏi mẹo hoặc kiến thức thực tế. AI rất giỏi trong việc gợi ý ý tưởng ban đầu, sửa lỗi chính tả hay dựng khung bài làm để giúp tôi thắng được sự trì hoãn.Tuy nhiên, tôi nhận ra mình không bao giờ được copy-paste nguyên xi lời AI viết vào bài nộp.
